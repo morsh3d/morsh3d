@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yasmin, a software engineer 😊
+Hi, I'm Yasmin, a software engineer.
 
 
 # 💻 Tech Stack:
