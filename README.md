@@ -1,5 +1,5 @@
 # 💫 About Me:
-<span style="color:pink">some *This is Blue italic.* text</span>
+<span style="color:pink">some *This is Pink italic.* text</span>
 
 
 # 💻 Tech Stack:
