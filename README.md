@@ -1,5 +1,5 @@
 # 💫 About Me:
-<span style="color:pink">Hi, I'm Yasmin, a software engineer.</span>.
+<span style="color:pink">Hi, I'm *Yasmin Pink italic.*, a software engineer.</span>.
 
 
 # 💻 Tech Stack:
