@@ -1,9 +1,7 @@
 
 # 💫 About Me:
 
-Hi, I'm Yasmin, a software developer
-
-Currently studying for AWS DVA-C02 
+***Hi, I'm Yasmin, a software developer***
 
 Interests: 
  - Python 🐍
