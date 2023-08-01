@@ -1,8 +1,6 @@
 
 # 💫 About Me:
 
-***Hi, I'm Yasmin, a software developer***
-
 Interests: 
  - Python 🐍
  - Cloud ☁️
