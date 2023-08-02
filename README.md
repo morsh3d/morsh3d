@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hey, I'm Yasmin, a software developer
+Hey, I'm Yasmin, a software developer 👋
 <p style="text-align:center"><strong>Interests:</strong><br />
 &nbsp;- Python 🐍<br />
 &nbsp;- Cloud ☁️<br />
