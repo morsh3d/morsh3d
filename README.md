@@ -1,10 +1,11 @@
 
 # 💫 About Me:
-
+<p align="center">
 Interests: 
  - Python 🐍
  - Cloud ☁️
  - Game development 👾
+</p>
 
 # 💻 Tech Stack:
 
