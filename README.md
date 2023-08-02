@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <h4>Hey, I'm Yasmin, a software developer 👋</h4>
-<img src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif" width="120" height="120" />
 <p style="text-align:center"><strong>Interests:</strong><br />
 &nbsp;- Python 🐍<br />
 &nbsp;- Cloud ☁️<br />
