@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <p align="center">
-Interests: 
+**Interests:** 
  - Python 🐍
  - Cloud ☁️
  - Game development 👾
