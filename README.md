@@ -8,7 +8,7 @@
 &nbsp;- Cloud ☁️<br />
 &nbsp;- Game development 👾</p>
 </p>
-<font color="blue">Currently learning DVA-C02</font>
+> :memo: **Note:** Currently learning DVA-C02
 
 <h4> 💻 Tech Stack: </h4>
 
