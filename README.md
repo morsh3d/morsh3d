@@ -2,6 +2,7 @@
 <p align=center>
 <h5 align=center>Hey, I'm Yasmin, a software developer 👋</h5>
 <kbd><img src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif" width="120" height="120" /></kbd>
+\
 <p style="text-align:center"><strong>Interests:</strong><br />
 &nbsp;- Python 🐍<br />
 &nbsp;- Cloud ☁️<br />
