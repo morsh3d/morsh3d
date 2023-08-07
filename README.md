@@ -1,7 +1,8 @@
 <h3 align=center> 💫 About Me: </h3>
 <p align=center>
 <h5 align=center>Hey, I'm Yasmin, a software developer 👋</h5>
-<kbd><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="140" height="120" /></kbd>
+<kbd><img src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif" width="140" height="120" /></kbd>
+  
 <h3></h3>
 <p style="text-align:center"><strong>Interests:</strong><br />
 &nbsp;- Python 🐍<br />
