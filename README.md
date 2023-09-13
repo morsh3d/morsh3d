@@ -2,8 +2,7 @@
 <h5>Hey, I'm Yasmin, a software developer 👋</h5>
 
 <h5> 👩🏻‍💻 Interests: </h5>
-<h6>
-- Python 🐍<br />
+<h6>- Python 🐍<br />
 - Cloud ☁️<br />
 - Game development 👾</p>
 </h6>
