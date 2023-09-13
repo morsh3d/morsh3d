@@ -3,9 +3,9 @@
 
 <h5> 👩🏻‍💻 Interests: </h5>
 <h6>
-&nbsp;- Python 🐍<br />
-&nbsp;- Cloud ☁️<br />
-&nbsp;- Game development 👾</p>
+- Python 🐍<br />
+- Cloud ☁️<br />
+- Game development 👾</p>
 </h6>
 
 <h5> 💻 Tech Stack: </h5>
