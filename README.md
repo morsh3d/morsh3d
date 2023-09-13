@@ -1,7 +1,8 @@
 <p align=center>
 <h5>Hey, I'm Yasmin, a software developer 👋</h5>
-  
-<h6><strong>Interests:</strong><br />
+
+<h5> 👩🏻‍💻 Interests: </h5>
+<h6>
 &nbsp;- Python 🐍<br />
 &nbsp;- Cloud ☁️<br />
 &nbsp;- Game development 👾</p>
