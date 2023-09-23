@@ -1,10 +1,8 @@
-<h5>Hey, I'm Yasmin, a software developer 👋</h5>
+Hey, I'm Yasmin 👩🏻‍💻, a software developer 👋, I'm interested in:
 
-<h5> 👩🏻‍💻 Interests: </h5>
-<h6>- Python 🐍<br />
-- Cloud ☁️<br />
-- Game development 👾</p>
-</h6>
+ - Python 🐍
+ - Cloud ☁️
+ - Game development 👾
 
 <h5> 💻 Tech Stack: </h5>
 
