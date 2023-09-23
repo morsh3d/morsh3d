@@ -1,4 +1,3 @@
-<p align=center>
 <h5>Hey, I'm Yasmin, a software developer 👋</h5>
 
 <h5> 👩🏻‍💻 Interests: </h5>
