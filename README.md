@@ -1,7 +1,7 @@
 
 Hey 👋, I'm Yasmin, a software developer
 
-> 👩🏻‍💻 Interests:
+> ⭐️ Interests:
 
  - 🐍 Python
  - ☁️ Cloud
