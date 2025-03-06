@@ -1,3 +1,3 @@
 <p align="center">
-  ✨ "Not all those who wander are lost." ✨
+  👋 Hey, I'm <kbd>Yasmin</kbd>, a developer ✨
 </p>
